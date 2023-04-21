@@ -11,7 +11,7 @@ inquirer is needed
 ## Usage
 to build cool readme
 
-[<img src="https://drive.google.com/file/d/1TMxWsBGHYJU6msc7qoceofKXpQ1PXrUW/preview" width="640" height="480"
+[<img src="https://drive.google.com/file/d/1TMxWsBGHYJU6msc7qoceofKXpQ1PXrUW/preview"]
 
 
 ## Test
