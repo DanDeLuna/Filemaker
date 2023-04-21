@@ -10,32 +10,37 @@ const questions = [
     },
     {
     type: 'input',
-    name: '',
-    message:'',
+    name: 'description',
+    message:'What is your project about? give us a short description',
     },
     {
     type: 'input',
-    name: '',
-    message:'',
+    name: 'install',
+    message:'Is an install needed? or how do you install',
     }, 
     {
     type: 'input',
-    name: '',
-    message:'',
+    name: 'usage',
+    message:'Example/ usage of this app/build ',
     },
     {
     type: 'input',
-    name: '',
-    message:'',
+    name: 'test',
+    message:'What tests have been performed?',
     },
     {
     type: 'input',
-    name: '',
-    message:'',
+    name: 'credits',
+    message:'Who worked on this cool project?',
     },
     {
     type: 'input',
-    name: '',
+    name: 'license',
+    message:'',
+    },
+    {
+    type:'input',
+    name:'question',
     message:'',
     },
 ];
